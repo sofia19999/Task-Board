@@ -111,4 +111,4 @@ The screenshot shows the Task Board with tasks in the "To Do", "In Progress", an
 
 ## Links
 Live Application: Live Demo: http://127.0.0.1:5500/Develop/index.html
-Repository: GitHub Repository: https://github.com/sofia19999/Challenge-5-
+Repository: https://github.com/sofia19999/Task-Board
