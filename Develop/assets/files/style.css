@@ -9,10 +9,8 @@ body {
 
 .task-card {
   margin: 0 auto;
-
 }
 
 .task-card:hover {
   cursor: grab;
-
 }
